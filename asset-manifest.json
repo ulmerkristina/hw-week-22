@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ulmerkristina/hw-week-22/static/css/main.5e54b646.css",
+    "main.js": "/ulmerkristina/hw-week-22/static/js/main.ea519ebd.js",
+    "static/js/453.3d466f25.chunk.js": "/ulmerkristina/hw-week-22/static/js/453.3d466f25.chunk.js",
+    "index.html": "/ulmerkristina/hw-week-22/index.html",
+    "static/media/icon-delete.svg": "/ulmerkristina/hw-week-22/static/media/icon-delete.b0d83b0ad8fb5fa73d5c.svg",
+    "static/media/icon-delete-hover.svg": "/ulmerkristina/hw-week-22/static/media/icon-delete-hover.7cce90d6923e3beef34a.svg",
+    "static/media/icon-add.svg": "/ulmerkristina/hw-week-22/static/media/icon-add.edf5cfe986016adcc6d5.svg",
+    "static/media/icon-add-hover.svg": "/ulmerkristina/hw-week-22/static/media/icon-add-hover.9220801d636306a44a37.svg",
+    "static/media/icon-pencil.svg": "/ulmerkristina/hw-week-22/static/media/icon-pencil.23dc27d5e8d24ececbd4.svg",
+    "static/media/icon-pencil-hover.svg": "/ulmerkristina/hw-week-22/static/media/icon-pencil-hover.5dad07f4fc33cee35436.svg",
+    "main.5e54b646.css.map": "/ulmerkristina/hw-week-22/static/css/main.5e54b646.css.map",
+    "main.ea519ebd.js.map": "/ulmerkristina/hw-week-22/static/js/main.ea519ebd.js.map",
+    "453.3d466f25.chunk.js.map": "/ulmerkristina/hw-week-22/static/js/453.3d466f25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e54b646.css",
+    "static/js/main.ea519ebd.js"
+  ]
+}
